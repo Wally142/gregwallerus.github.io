@@ -1,5 +1,7 @@
 h1 {
   font-size: 48px;
+  position: relative;
+  right: 40px;
 }
 
 h2 {
