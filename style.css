@@ -8,3 +8,11 @@ h2 {
 
 h3 {
   font-size: 16px;
+}
+
+.hero {
+  background-image:
+    url("http://media5.picsearch.com/is?nbFo525ULQLYga1r-rTd4i2MbSTU6hzK0CwR9hjywFA&height=213");
+  background-size: cover;
+}
+  
