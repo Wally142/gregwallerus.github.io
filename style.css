@@ -26,8 +26,7 @@ h3 {
 }
 
 img {
-  position: right;
-  display: inline block;
+  float: right;
 }
 
 
