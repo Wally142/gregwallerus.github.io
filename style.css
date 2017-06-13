@@ -1,8 +1,7 @@
 h1 {
   font-size: 48px;
   border-bottom: 1px solid black;
-  position: relative;
-  left: 60px;
+  text-align: left;
 }
 
 h2 {
@@ -18,7 +17,6 @@ h3 {
     url("http://media5.picsearch.com/is?nbFo525ULQLYga1r-rTd4i2MbSTU6hzK0CwR9hjywFA&height=213");
   background-size: cover;
   border: 1px solid #000;
-  text-align: center;
   margin: 2px;
   padding: 30px;
 }
