@@ -24,8 +24,7 @@ h3 {
 }
 
 .stats {
-  position: relative;
-  left: 60px
+  text-align: left;
 }
 
 .profile {
