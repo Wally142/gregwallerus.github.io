@@ -1,12 +1,14 @@
 h1 {
   font-size: 48px;
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid black;
   font-family: Comic Sans MS, Ebrima;
   }
 
 h2 {
   font-size: 24px;
   font-family: Comic Sans MS, Ebrima;
+  border-bottom: 2px solid black;
+  display: inline-block;
 }
 
 h3 {
