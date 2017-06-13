@@ -25,6 +25,11 @@ h3 {
   padding: 30px;
 }
 
+img {
+  position: right;
+  display: inline block;
+}
+
 
  
 
