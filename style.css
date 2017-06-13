@@ -16,5 +16,9 @@ h3 {
   background-image:
     url("http://media5.picsearch.com/is?nbFo525ULQLYga1r-rTd4i2MbSTU6hzK0CwR9hjywFA&height=213");
   background-size: cover;
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 30px;
 }
   
